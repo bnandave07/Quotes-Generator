@@ -1,2 +1,3 @@
 # Quotes-Generator
-Created an Random Quote Generator using js
+Created a Random Quote Generator using js
+https://bnandave07.github.io/Quotes-Generator/
